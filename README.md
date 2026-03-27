@@ -22,6 +22,14 @@ $\color{#9F0F41FF}{\textsf{usually at docks or marvel.}}$<br>
     </tr>
   </table>
   </div>
-
+  
+$\color{#9F0F41FF}{\textsf{dni list.}}$<br>
+$\color{#9F0F41FF}{\textsf{under 15 do not interact.}}$<br>
+$\color{#9F0F41FF}{\textsf{basic dni.}}$<br>
+$\color{#9F0F41FF}{\textsf{i block freely.}}$<br>
+      </td>
+    </tr>
+  </table>
+  </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kineticfolds&color=66053F&style=for-the-badge&label=+DECKS" />⠀
