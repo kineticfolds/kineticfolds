@@ -22,3 +22,6 @@ $\color{#9F0F41FF}{\textsf{usually at docks or marvel.}}$<br>
     </tr>
   </table>
   </div>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&pause=1500&color=922455&center=true&vCenter=true&width=435&lines=Gambit+take+your+bet%2C;AND+RAISE+IT!" alt="Typing SVG" /></a>
